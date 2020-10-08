@@ -1,0 +1,7 @@
+Esta es una prueba de como utilizar Git
+
+Veremos como iniciar el Repository
+
+Y en este momento estamos aprendiendo las bases de la Programacion.
+
+Y naci en Argentina.
