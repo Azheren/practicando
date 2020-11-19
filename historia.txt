@@ -7,3 +7,4 @@ Y en este momento estamos aprendiendo las bases de la Programación.
 Y nací en Argentina en la ciudad de San Pedro en el 2001.
 Esto lo estoy agregando desde vim para seguir practicando, osea que lo estoy agregando desde Vim entrando de la terminal (vi y nombre del archivo).
 
+Esta vez cree un branch llamado experimento para probar el Rebase. Aunque debemos recordar que Rebase en el Repository, es una muy mala practica.
