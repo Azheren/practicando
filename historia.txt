@@ -2,6 +2,6 @@ Esta es una prueba de como utilizar Git
 
 Veremos como iniciar el Repository
 
-Y en este momento estamos aprendiendo las bases de la Programacion.
+Y en este momento estamos aprendiendo las bases de la Programación.
 
-Y naci en Argentina en la ciudad de San Pedro en el 2001.
+Y nací en Argentina en la ciudad de San Pedro en el 2001.
